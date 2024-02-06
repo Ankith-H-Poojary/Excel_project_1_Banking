@@ -79,7 +79,6 @@ loans? What do you infer?
 • Income_Category vs Personal Loan
 [Hint: Please drag Personal Loan to the Columns area while creating the Pivot Table to
 get the required values]
-Proprietary content. ©Great Learning. All Rights Reserved. Unauthorized use or distribution prohibited
 9) Analyze the Pivot tables created in the previous question and state any anomaly that
 you observe. Which categorical variables appear most important for your further
 study if you want to analyze which customers are most likely to take personal loans
